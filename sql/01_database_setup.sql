@@ -1,6 +1,6 @@
-CREATE DATABASE ecommerce_dw;
+CREATE DATABASE ecommerce_db;
 
-USE DATABASE ecommerce_dw;
+USE DATABASE ecommerce_db;
 
 CREATE SCHEMA raw;
 CREATE SCHEMA staging;

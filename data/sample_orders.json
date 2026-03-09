@@ -1,0 +1,32 @@
+[
+ {
+  "order_id":"ORD1001",
+  "customer_id":"C101",
+  "seller_id":"S900",
+  "product_id":"P300",
+  "order_amount":500,
+  "order_date":"2026-03-09",
+  "payment_method":"CARD",
+  "shipping_address":"Chennai"
+ },
+ {
+  "order_id":"ORD1002",
+  "customer_id":"C102",
+  "seller_id":"S901",
+  "product_id":"P301",
+  "order_amount":12000,
+  "order_date":"2026-03-09",
+  "payment_method":"UPI",
+  "shipping_address":"Bangalore"
+ },
+ {
+  "order_id":"ORD1003",
+  "customer_id":"C101",
+  "seller_id":"S900",
+  "product_id":"P302",
+  "order_amount":200,
+  "order_date":"2026-03-09",
+  "payment_method":"CARD",
+  "shipping_address":"Chennai"
+ }
+]
